@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Ajith2002
 - 👀 I’m interested in  PYTHON 
-- 🌱 I’m currently learning  PYTHON , Privacy apps
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  Python,Privacy apps
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
-- I AM THE ONLY ONE SUPER ONE!!!
 
 <!---
 Ajith2002/Ajith2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
