@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ajith2002
-- 👀 I’m interested in  PYTHON 
-- 🌱 I’m currently learning  Python and interested in Privacy oriented apps
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Ajet
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning  Python and interested in developing scripts and web apps
+- 💞️ I’m looking to collaborate on Python development
 - 📫 How to reach me 
 
 <!---
